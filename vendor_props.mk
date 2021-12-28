@@ -250,3 +250,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Wi-Fi
 PRODUCT_PROPERTY_OVERRIDES += \
     wifi.aware.interface=wifi-aware0
+
+# Graphics
+debug.sdm.support_writeback=0
