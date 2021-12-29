@@ -470,4 +470,7 @@
            <item>0</item> <!-- COLOR_MODE_NATURAL -->
            <item>1</item> <!-- COLOR_MODE_BOOSTED -->
                             </integer-array>
+    <!-- Whether to cancel fingerprint operation if not idle -->
+    <bool name="config_fpCancelIfNotIdle">true</bool>
+
 </resources>
