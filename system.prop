@@ -93,3 +93,6 @@ ro.havoc.device.name=Realme 5 / 5i / 5s
 ro.havoc.group.url=https://t.me/+sM2txZ35vuQzMThl
 ro.havoc.maintainer=Om Patel
 ro.havoc.maintainer.username=Takumi021
+
+# MemPlus Prefetcher
+persist.vendor.sys.memplus.enable=false
