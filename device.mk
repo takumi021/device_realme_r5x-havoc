@@ -350,9 +350,9 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/lm/AdaptLaunchFeature.xml:$(TARGET_COPY_OUT_VENDOR)/etc/lm/AdaptLaunchFeature.xml \
     $(LOCAL_PATH)/configs/msm_irqbalance.conf:$(TARGET_COPY_OUT_VENDOR)/etc/msm_irqbalance.conf
 
-PRODUCT_BOOT_JARS += \
-    QPerformance \
-    UxPerformance
+#PRODUCT_BOOT_JARS += \
+   # QPerformance \
+  #  UxPerformance
 
 # Protobuf
 PRODUCT_PACKAGES += \
