@@ -12,5 +12,5 @@ ro.lmk.log_stats=true
 # Havoc
 ro.havoc.device.name=Realme 5 Series
 ro.havoc.group.url=https://t.me/havoc_r5x
-ro.havoc.maintainer=Utkarsh Kanojiya
-ro.havoc.maintainer.username=iamlordutkarsh
+ro.havoc.maintainer=Om Patel
+ro.havoc.maintainer.username=Takumi021
