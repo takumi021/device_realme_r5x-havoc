@@ -22,6 +22,6 @@ persist.vendor.ims.disableIMSLogs=1
 persist.vendor.ims.disableQXDMLogs=1 
 
 # Aux Expose
-persist.vendor.camera.privapp.list=org.codeaurora.snapcam,com.android.camera,com.google.camera,com.android.lmc82,org.codeaurora.snapcaf,com.google.android.GoogleCameraGood,com.camera.lmc84r7,com.google.android.GoogleCameraEng
+persist.vendor.camera.privapp.list=org.codeaurora.snapcam,com.android.camera,com.google.camera
 vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera,com.google.camera,org.pixelexperience.faceunlock
 vendor.camera.aux.packageexcludelist=org.telegram.messenger,com.microsoft.teams,com.discord,com.android.snapchat
