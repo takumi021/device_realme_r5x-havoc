@@ -45,3 +45,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="redfin-user 11 RQ1C.210205.006 7047959 release-keys"
 
 BUILD_FINGERPRINT := google/redfin/redfin:11/RQ1C.210205.006/7047959:user/release-keys
+
+# GMS
+WITH_GAPPS=true
